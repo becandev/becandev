@@ -11,7 +11,7 @@
 
 
 
-### Happy to reaching out me!
+### Welcome, and thanks for visiting my profile.
 Over a decade of experience leading end-to-end web development, from concept to deployment. I specialize in designing systems that scale, improving performance, and delivering clean, maintainable solutions. Strong in translating business goals into technical execution, mentoring teams, and driving projects forward with clarity and efficiency. 
   
 
