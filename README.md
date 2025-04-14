@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Senior Full Stack Developer](https://github.com/becandev/decandev/background.jpg)
+![Senior Full Stack Developer]([https://github.com/becandev/decandev/background.jpg](https://raw.githubusercontent.com/becandev/becandev/refs/heads/main/background.jpg))
   
 
 ## I'm a Senior Full Stack Developer with over 10 years of hands-on experience!  
