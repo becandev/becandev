@@ -3,7 +3,7 @@
 ![Senior Full Stack Developer](https://raw.githubusercontent.com/becandev/becandev/refs/heads/main/background.jpg)
   
 
-## I'm a Senior Full Stack Developer with over 10 years of hands-on experience!  
+## Senior Full Stack Developer with over 10 years of proven experience delivering end-to-end web solutions and driving scalable product development across diverse environments.
   
 
   
